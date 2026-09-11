@@ -1,7 +1,7 @@
 ---
 name: arcgis-agent
-description: 'ArcGIS Agent - use natural language to drive ArcGIS Pro via the arcpy-mcp-server HTTP API (2500+ spatial analysis tools across 47 toolboxes: buffer/clip/intersect, slope/aspect/viewshed, kriging/IDW, hotspot/Morans I, network analysis, image analysis & GeoAI deep learning, multidimensional rasters, utility networks, geocoding and more). Use when the user asks for GIS/spatial analysis, ArcGIS automation, or arcpy operations. Requires Windows + ArcGIS Pro 3.x. 通过自然语言驱动 ArcGIS Pro 的 2500+ arcpy 空间分析工具（47 个工具箱）。'
-version: 1.1.0
+description: 'ArcGIS Agent - drive 2500+ ArcGIS Pro geoprocessing tools across 46 toolboxes (buffer/clip/intersect, slope/aspect/viewshed, kriging/IDW, hotspot/Moran''s I, image analysis, GeoAI deep learning, multidimensional rasters, utility networks, geocoding and more) with natural language, via a local HTTP API. Use when the user asks for GIS/spatial analysis, ArcGIS automation, or arcpy operations. Requires Windows + ArcGIS Pro 3.x. 通过自然语言驱动 ArcGIS Pro 的 2500+ 个 arcpy 空间分析工具，覆盖 46 个工具箱（缓冲区/裁剪/相交、坡度/可视域、克里金/IDW、热点分析、影像分析、GeoAI 深度学习、多维栅格、公共设施网络、地址匹配等）。适用于 GIS 与空间分析、ArcGIS 自动化、arcpy 操作等需求。需要 Windows + ArcGIS Pro 3.x。'
+version: 1.1.1
 metadata:
   author: based on zhaojj662/arcpy-mcp-server (MIT)
   source: https://github.com/zhaojj662/arcpy-mcp-server
